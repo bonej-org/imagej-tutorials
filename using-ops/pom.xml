@@ -22,6 +22,8 @@
 	<properties>
 		<main-class>UsingOps</main-class>
 		<scijava.jvm.version>1.8</scijava.jvm.version>
+		<enforcer.skip>true</enforcer.skip>
+		<imagej-ops.version>0.24.2-SNAPSHOT</imagej-ops.version>
 	</properties>
 
 	<repositories>
